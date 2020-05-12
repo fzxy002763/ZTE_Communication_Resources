@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话第三代移动通信" />
+    <Credit>
+    <Part text="监　制">
+      <NameLine>邱泉</NameLine>
+    </Part>
+    <Part text="策　划">
+      <NameLine>邱泉　卓永刚</NameLine>
+    </Part>
+    <Part text="片头设计">
+      <NameLine>裴泽芳</NameLine>
+    </Part>
+    <Part text="标题设计">
+      <NameLine>裴泽芳</NameLine>
+    </Part>
+    <Part text="演示动画">
+      <NameLine>《系统设备》………… 林春燕 </NameLine>
+      <NameLine>《编号方式》………… 林春燕</NameLine>
+      <NameLine>《呼叫流程》………… 林春燕</NameLine>
+      <NameLine>《系统接口》………… 兰州 </NameLine>
+      <NameLine>《FDMA》……………… 邹圣照</NameLine>
+      <NameLine>《TDMA》……………… 邹圣照、卓永刚</NameLine>
+      <NameLine>《CDMA》……………… 卓永刚、林春燕 </NameLine>
+      <NameLine>《OFDM》……………… 邹圣照、秦红娟</NameLine>
+      <NameLine>《多信道共用》……… 卓永刚 </NameLine>
+      <NameLine>《移动分组数据》…… 兰州</NameLine>
+      <NameLine>《IMT-2000》………… 林春燕</NameLine>
+      <NameLine>《WCDMA &amp; TD-SCDMA》……… 周厚桥</NameLine>
+      <NameLine>《CDMA2000》………… 秦红娟 </NameLine>
+      <NameLine>《3G后展望》………… 卓永刚</NameLine>
+      <NameLine>《课后语》…………… 兰州 </NameLine>
+      <NameLine>《复习题》…………… 周厚桥 </NameLine>
+    </Part>
+    <Part text="配　音">
+      <NameLine>邢琨</NameLine>
+    </Part>
+    <Part text="包　装">
+      <NameLine>覃开政</NameLine>
+    </Part>
+    </Credit>
+    <MediaList>
+      <Title id="1" text="系统设备" url="../Media/01.flv" subtitles="Data/ST.xml" />
+      <Title id="2" text="编号方式" url="../Media/02.flv" subtitles="Data/ST.xml" />
+      <Title id="3" text="呼叫流程" url="../Media/03.flv" subtitles="Data/ST.xml" />
+      <Title id="4" text="系统接口" url="../Media/04.flv" subtitles="Data/ST.xml" />
+      <Title id="5" text="多址技术" url="../Media/0501.flv" subtitles="Data/ST.xml">
+      <Title id="5_1" text="FDMA" url="../Media/0501.flv" subtitles="Data/ST.xml" />
+      <Title id="5_2" text="TDMA" url="../Media/0502.flv" subtitles="Data/ST.xml" />
+      <Title id="5_3" text="CDMA" url="../Media/0503.flv" subtitles="Data/ST.xml" />
+      <Title id="5_4" text="OFDM" url="../Media/0504.flv" subtitles="Data/ST.xml" />
+      </Title>
+      <Title id="6" text="多信道共用" url="../Media/06.flv" subtitles="Data/ST.xml" />
+      <Title id="7" text="移动分组数据" url="../Media/07.flv" subtitles="Data/ST.xml" />
+      <Title id="8" text="IMT-2000" url="../Media/08.flv" subtitles="Data/ST.xml" />
+      <Title id="9" text="WCDMA &amp; TD-SCDMA" url="../Media/09.flv" subtitles="Data/ST.xml" />
+      <Title id="10" text="CDMA2000" url="../Media/10.flv" subtitles="Data/ST.xml" />
+      <Title id="11" text="3G后的展望" url="../Media/11.flv" subtitles="Data/ST.xml" />
+      <Title id="12" text="课后语" url="../Media/12.flv" subtitles="Data/ST.xml" />
+    </MediaList>
+  </data>
+</root>
