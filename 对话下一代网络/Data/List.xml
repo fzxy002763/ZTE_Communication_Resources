@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话下一代网络" />
+    <MediaList>
+      <Title id="1" text="为什么需要下一代网络" url="../Media/01.flv" subtitles="Data/ST.xml" />
+      <Title id="2" text="NGN概述" url="../Media/02.flv" subtitles="Data/ST.xml" />
+      <Title id="3" text="NGN协议概述" url="../Media/03.flv" subtitles="Data/ST.xml" />
+      <Title id="4" text="H.248协议" url="../Media/04.flv" subtitles="Data/ST.xml" />
+      <Title id="5" text="SIP协议" url="../Media/05.flv" subtitles="Data/ST.xml" />
+      <Title id="6" text="SIP-T和SIP-I协议" url="../Media/06.flv" subtitles="Data/ST.xml" />
+      <Title id="7" text="NGN的呼叫流程" url="../Media/07.flv" subtitles="Data/ST.xml" />
+    </MediaList>
+  </data>
+</root>
