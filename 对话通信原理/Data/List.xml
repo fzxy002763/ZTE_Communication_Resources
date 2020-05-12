@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话通信原理" />
+    <MediaList>
+      <Title id="1" text="第一讲 通信系统" url="../Media/0101.flv" subtitles="Data/0101.xml">
+        <Title id="1_1" text="对话通信系统" url="../Media/0101.flv" subtitles="Data/0101.xml" />
+        <Title id="1_2" text="观众提问" url="../Media/0102.flv" subtitles="Data/0102.xml" />
+        <Title id="1_3" text="轻松一分" url="../Media/0103.flv" subtitles="Data/0103.xml" />
+      </Title>
+      <Title id="2" text="第二讲 信息" url="../Media/0201.flv" subtitles="Data/0201.xml">
+        <Title id="2_1" text="引言" url="../Media/0201.flv" subtitles="Data/0201.xml" />
+        <Title id="2_2" text="对话信息" url="../Media/0202.flv" subtitles="Data/0202.xml" />
+        <Title id="2_3" text="观众提问" url="../Media/0203.flv" subtitles="Data/0203.xml" />
+        <Title id="2_4" text="轻松一分" url="../Media/0204.flv" subtitles="Data/0204.xml" />
+      </Title>
+      <Title id="3" text="第三讲 信号" url="../Media/0301.flv" subtitles="Data/0301.xml">
+        <Title id="3_1" text="引言" url="../Media/0301.flv" subtitles="Data/0301.xml" />
+        <Title id="3_2" text="周期信号与傅里叶级数" url="../Media/0302.flv" subtitles="Data/0302.xml" />
+        <Title id="3_3" text="非周期信号与傅里叶变换" url="../Media/0303.flv" subtitles="Data/0303.xml" />
+        <Title id="3_4" text="对话卷积的估算" url="../Media/0304.flv" subtitles="Data/0304.xml" />
+        <Title id="3_5" text="对话频谱搬移与采样原理" url="../Media/0305.flv" subtitles="Data/0305.xml" />
+        <Title id="3_6" text="对话功率谱与自相关函数" url="../Media/0306.flv" subtitles="Data/0306.xml" />
+        <Title id="3_7" text="观众提问" url="../Media/0307.flv" subtitles="Data/0307.xml" />
+        <Title id="3_8" text="轻松一分" url="../Media/0308.flv" subtitles="Data/0308.xml" />
+      </Title>
+      <Title id="4" text="第四讲  信道" url="../Media/0401.flv" subtitles="Data/0401.xml">
+        <Title id="4_1" text="引言" url="../Media/0401.flv" subtitles="Data/0401.xml" />
+        <Title id="4_2" text="对话有线信道" url="../Media/0402.flv" subtitles="Data/0402.xml" />
+        <Title id="4_3" text="对话无线信道" url="../Media/0403.flv" subtitles="Data/0403.xml" />
+        <Title id="4_4" text="对话噪声与扩频" url="../Media/0404.flv" subtitles="Data/0404.xml" />
+        <Title id="4_5" text="对话信道容量" url="../Media/0405.flv" subtitles="Data/0405.xml" />
+        <Title id="4_6" text="观众提问" url="../Media/0406.flv" subtitles="Data/0406.xml" />
+        <Title id="4_7" text="轻松一分" url="../Media/0407.flv" subtitles="Data/0407.xml" />
+      </Title>
+      <Title id="5" text="第五讲  信源编码" url="../Media/0501.flv" subtitles="Data/0501.xml">
+        <Title id="5_1" text="引言" url="../Media/0501.flv" subtitles="Data/0501.xml" />
+        <Title id="5_2" text="对话信源编码" url="../Media/0502.flv" subtitles="Data/0502.xml" />
+        <Title id="5_3" text="观众提问" url="../Media/0503.flv" subtitles="Data/0503.xml" />
+        <Title id="5_4" text="轻松一分" url="../Media/0504.flv" subtitles="Data/0504.xml" />
+      </Title>
+      <Title id="6" text="第六讲  基带信号传输" url="../Media/0601.flv" subtitles="Data/0601.xml">
+        <Title id="6_1" text="引言" url="../Media/0601.flv" subtitles="Data/0601.xml" />
+        <Title id="6_2" text="对话数字复接" url="../Media/0602.flv" subtitles="Data/0602.xml" />
+        <Title id="6_3" text="对话码速调整" url="../Media/0603.flv" subtitles="Data/0603.xml" />
+        <Title id="6_4" text="对话传输码型" url="../Media/0604.flv" subtitles="Data/0604.xml" />
+        <Title id="6_5" text="对话码间串扰" url="../Media/0605.flv" subtitles="Data/0605.xml" />
+        <Title id="6_6" text="对话信道均衡" url="../Media/0606.flv" subtitles="Data/0606.xml" />
+        <Title id="6_7" text="观众提问" url="../Media/0607.flv" subtitles="Data/0607.xml" />
+        <Title id="6_8" text="轻松一分" url="../Media/0608.flv" subtitles="Data/0608.xml" />
+      </Title>
+      <Title id="7" text="第七讲  信道编码" url="../Media/0701.flv" subtitles="Data/0701.xml">
+        <Title id="7_1" text="引言" url="../Media/0701.flv" subtitles="Data/0701.xml" />
+        <Title id="7_2" text="对话编码原理" url="../Media/0702.flv" subtitles="Data/0702.xml" />
+        <Title id="7_3" text="对话分组码" url="../Media/0703.flv" subtitles="Data/0703.xml" />
+        <Title id="7_4" text="对话卷积码和Turbo码" url="../Media/0704.flv" subtitles="Data/0704.xml" />
+        <Title id="7_5" text="观众提问" url="../Media/0705.flv" subtitles="Data/0705.xml" />
+        <Title id="7_6" text="轻松一分" url="../Media/0706.flv" subtitles="Data/0706.xml" />
+      </Title>
+      <Title id="8" text="第八讲  调制和接收" url="../Media/0801.flv" subtitles="Data/0801.xml">
+        <Title id="8_1" text="引言" url="../Media/0801.flv" subtitles="Data/0801.xml" />
+        <Title id="8_2" text="对话模拟调制" url="../Media/0802.flv" subtitles="Data/0802.xml" />
+        <Title id="8_3" text="对话数字调制" url="../Media/0803.flv" subtitles="Data/0803.xml" />
+        <Title id="8_4" text="对话多进制调制" url="../Media/0804.flv" subtitles="Data/0804.xml" />
+        <Title id="8_5" text="对话最佳接收" url="../Media/0805.flv" subtitles="Data/0805.xml" />
+        <Title id="8_6" text="对话OFDM" url="../Media/0806.flv" subtitles="Data/0806.xml" />
+        <Title id="8_7" text="观众提问" url="../Media/0807.flv" subtitles="Data/0807.xml" />
+        <Title id="8_8" text="轻松一分" url="../Media/0808.flv" subtitles="Data/0808.xml" />
+      </Title>
+      <Title id="9" text="第九讲  交换和路由" url="../Media/0901.flv" subtitles="Data/0901.xml">
+        <Title id="9_1" text="引言" url="../Media/0901.flv" subtitles="Data/0901.xml" />
+        <Title id="9_2" text="对话电路交换" url="../Media/0902.flv" subtitles="Data/0902.xml" />
+        <Title id="9_3" text="对话分组交换" url="../Media/0903.flv" subtitles="Data/0903.xml" />
+        <Title id="9_4" text="对话IP路由" url="../Media/0904.flv" subtitles="Data/0904.xml" />
+        <Title id="9_5" text="对话软交换" url="../Media/0905.flv" subtitles="Data/0905.xml" />
+        <Title id="9_6" text="观众提问" url="../Media/0906.flv" subtitles="Data/0906.xml" />
+        <Title id="9_7" text="轻松一分" url="../Media/0907.flv" subtitles="Data/0907.xml" />
+      </Title>
+      <Title id="10" text="第十讲  通信网" url="../Media/1001.flv" subtitles="Data/1001.xml">
+        <Title id="10_1" text="引言" url="../Media/1001.flv" subtitles="Data/1001.xml" />
+        <Title id="10_2" text="对话电话网" url="../Media/1002.flv" subtitles="Data/1002.xml" />
+        <Title id="10_3" text="对话数据网" url="../Media/1003.flv" subtitles="Data/1003.xml" />
+        <Title id="10_4" text="对话移动通信网" url="../Media/1004.flv" subtitles="Data/1004.xml" />
+        <Title id="10_5" text="对话下一代网络" url="../Media/1005.flv" subtitles="Data/1005.xml" />
+        <Title id="10_6" text="观众提问" url="../Media/1006.flv" subtitles="Data/1006.xml" />
+        <Title id="10_7" text="轻松一分" url="../Media/1007.flv" subtitles="Data/1007.xml" />
+      </Title>
+    </MediaList>
+  </data>
+</root>
