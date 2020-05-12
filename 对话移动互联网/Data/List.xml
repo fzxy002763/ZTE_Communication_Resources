@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话移动互联网" />
+    <MediaList>
+      <Title id="1" text="互联网的起源与发展" url="../Media/01.flv" subtitles="Data/ST.xml" />
+      <Title id="2" text="宽带接入技术介绍" url="../Media/02.flv" subtitles="Data/ST.xml" />
+      <Title id="3" text="移动通信与互联网" url="../Media/03.flv" subtitles="Data/ST.xml" />
+    </MediaList>
+  </data>
+</root>
