@@ -1,0 +1,3 @@
+[AutoRun]
+Icon=Logo.ico
+Open=Run.exe
