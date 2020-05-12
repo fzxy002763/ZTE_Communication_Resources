@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话光通信" />
+    <MediaList>
+      <Title id="1" text="光纤传输的发展概述" url="../Media/01.flv" subtitles="Data/ST.xml" />
+      <Title id="2" text="光纤传输特性" url="../Media/02.flv" subtitles="Data/ST.xml" />
+      <Title id="3" text="SDH基本原理" url="../Media/03.flv" subtitles="Data/ST.xml" />
+      <Title id="4" text="WDM基本原理" url="../Media/04.flv" subtitles="Data/ST.xml" />
+      <Title id="5" text="OTN概述" url="../Media/05.flv" subtitles="Data/ST.xml" />
+      <Title id="6" text="PTN概述" url="../Media/06.flv" subtitles="Data/ST.xml" />
+      <Title id="7" text="ASON概述" url="../Media/07.flv" subtitles="Data/ST.xml" />
+    </MediaList>
+  </data>
+</root>
