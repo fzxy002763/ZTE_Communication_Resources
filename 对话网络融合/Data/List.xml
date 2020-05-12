@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话网络融合" />
+    <MediaList>
+      <Title id="1" text="前言" url="../Media/01.flv" subtitles="Data/ST.xml" />
+      <Title id="2" text="网络融合在改变什么" url="../Media/02.flv" subtitles="Data/ST.xml" />
+      <Title id="3" text="为什么要网络融合" url="../Media/03.flv" subtitles="Data/ST.xml" />
+      <Title id="4" text="网络融合后的通信世界" url="../Media/04.flv" subtitles="Data/ST.xml" />
+      <Title id="5" text="网络融合主要发展思路" url="../Media/05.flv" subtitles="Data/ST.xml" />
+      <Title id="6" text="各层面网络技术发展" url="../Media/06.flv" subtitles="Data/ST.xml" />
+      <Title id="7" text="展望未来" url="../Media/07.flv" subtitles="Data/ST.xml" />
+    </MediaList>
+  </data>
+</root>
