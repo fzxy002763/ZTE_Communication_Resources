@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <state code="" message="" />
+  <data>
+    <Info name="对话宽带接入" />
+    <MediaList>
+      <Title id="1" text="接入网要点" url="../Media/01.flv" subtitles="Data/ST.xml" />
+      <Title id="2" text="各种技术特点" url="../Media/0201.flv" subtitles="Data/ST.xml">
+            <Title id="2_1" text="xDSL技术介绍" url="../Media/0201.flv" subtitles="Data/ST.xml" />
+            <Title id="2_2" text="以太网技术介绍" url="../Media/0202.flv" subtitles="Data/ST.xml" />
+            <Title id="2_3" text="HFC技术介绍" url="../Media/0203.flv" subtitles="Data/ST.xml" />
+            <Title id="2_4" text="无线技术介绍" url="../Media/0204.flv" subtitles="Data/ST.xml" />
+            <Title id="2_5" text="xPON技术介绍" url="../Media/0205.flv" subtitles="Data/ST.xml" />
+      </Title>
+      <Title id="3" text="课程要点回顾" url="../Media/03.flv" subtitles="Data/ST.xml" />
+    </MediaList>
+  </data>
+</root>
